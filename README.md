@@ -1,7 +1,7 @@
 # Market Entry Strategy for a European Airline in India
 
 ![Airline Industry](https://www.pixelstalk.net/wp-content/uploads/2016/05/Airplane-HD-Wallpaper.jpg)
-*(Replace with an actual image URL from your repository or external source)*
+
 
 ## 📌 Overview
 This repository outlines a comprehensive **market entry strategy** for a European airline seeking to establish a presence in India through a **Joint Venture (JV) with Jet Airways**. The strategy covers market attractiveness, financial projections, operational plans, and competitive positioning.
